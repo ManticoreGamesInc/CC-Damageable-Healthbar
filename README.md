@@ -1,31 +1,50 @@
 <div align="center">
 
-# CC-Template-Repository
+# Damageable Healthbar
 
-A ... component that does x.
+[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Damageable-Healthbar/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Damageable-Healthbar/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Damageable-Healthbar?style=plastic)
 
-[![Build Status](https://github.com/Core-Team-META/CC-Template-Repository/workflows/CI/badge.svg)](https://github.com/Core-Team-META/CC-Template-Repository/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/CC-Template-Repository?style=plastic)
-
-![TitleCard](/Screenshots/REPLACE_ME.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
+## Finding the Component
+
+This component can be found under the **CoreAcademy** account on Community Content.
+
 ## Overview
 
-Description
+The Damageable Health bar component will show a health bar for objects that can take damage and die. For example, the damageable objects in Core Content. This component can be added as a child and will look for the damageable object above it.
 
-## Setup
+This can be useful to show the amount of health an object has left for players.
 
-Setup
+## How to use
 
-## Credits
+Drag the Damageable Healthbar template as a child of a damageable object. The component will attempt to find the nearest damageable ancestor.
 
-- List
-- of
-- people
+There are various properties on the root of the template that can be changed.
 
-## How to use this Template
+- **LookAtPlayer**
 
-- Replace every mention of `CC-Template-Repository` with your new repository name.
-- Replace every mention of `REPLACE_ME` with the correct values.
+	If true, the container will always face the player.
+
+- **Offset**
+
+	The offset of the container. Can be used to position this above the object.
+
+- **BackgroundColor**
+
+	The background color of the bar.
+
+- **BarColor**
+
+	The color of the bar.
+
+- **Width**
+
+	The width of the bar.
+
+- **Height**
+
+	The height of the bar.
