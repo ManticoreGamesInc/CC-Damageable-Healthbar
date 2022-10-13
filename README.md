@@ -2,8 +2,8 @@
 
 # Damageable Healthbar
 
-[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Damageable-Healthbar/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Damageable-Healthbar/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Damageable-Healthbar?style=plastic)
+[![Build Status](https://github.com/ManticoreGamesInc/CC-Damageable-Healthbar/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Damageable-Healthbar/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Damageable-Healthbar?style=plastic)
 
 ![Preview](/Screenshots/Main.png)
 
