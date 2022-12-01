@@ -6,6 +6,6 @@ Assets {
     CustomParameters {
     }
   }
-  SerializationVersion: 118
+  SerializationVersion: 120
   VirtualFolderPath: "Damageable Healbar"
 }

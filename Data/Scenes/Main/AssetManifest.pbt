@@ -17,6 +17,24 @@ Assets {
   }
 }
 Assets {
+  Id: 14411708033915066516
+  Name: "Humanoid 2 Karl"
+  PlatformAssetType: 26
+  PrimaryAsset {
+    AssetType: "SkinnedMeshAssetRef"
+    AssetId: "npc_human_guy_head_basic_004_ref"
+  }
+}
+Assets {
+  Id: 14027297667636643181
+  Name: "Humanoid 2 Rig"
+  PlatformAssetType: 25
+  PrimaryAsset {
+    AssetType: "SkeletonAssetRef"
+    AssetId: "npc_guy_wireframe_001_ref"
+  }
+}
+Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1

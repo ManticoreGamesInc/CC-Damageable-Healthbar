@@ -1,11 +1,11 @@
 Assets {
-  Id: 2670272646095596115
-  Name: "README"
+  Id: 10139659402558168400
+  Name: "WeaponReticleUIClient"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
     }
   }
   SerializationVersion: 120
-  VirtualFolderPath: "Damageable Healbar"
+  VirtualFolderPath: "Weapon"
 }
